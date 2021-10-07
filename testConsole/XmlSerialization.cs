@@ -2,7 +2,7 @@
 using System.IO;
 using System.Xml.Serialization;
 
-namespace testConsole
+namespace CACSProject
 {
     /// <summary>
     /// Functions for performing common XML Serialization operations.

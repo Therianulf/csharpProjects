@@ -1,0 +1,14 @@
+C:\Users\benl\Source\Repos\Therianulf\csharpProjects\testConsole\bin\Debug\netcoreapp3.1\testConsole.exe
+C:\Users\benl\Source\Repos\Therianulf\csharpProjects\testConsole\bin\Debug\netcoreapp3.1\testConsole.deps.json
+C:\Users\benl\Source\Repos\Therianulf\csharpProjects\testConsole\bin\Debug\netcoreapp3.1\testConsole.runtimeconfig.json
+C:\Users\benl\Source\Repos\Therianulf\csharpProjects\testConsole\bin\Debug\netcoreapp3.1\testConsole.runtimeconfig.dev.json
+C:\Users\benl\Source\Repos\Therianulf\csharpProjects\testConsole\bin\Debug\netcoreapp3.1\testConsole.dll
+C:\Users\benl\Source\Repos\Therianulf\csharpProjects\testConsole\bin\Debug\netcoreapp3.1\testConsole.pdb
+C:\Users\benl\Source\Repos\Therianulf\csharpProjects\testConsole\obj\Debug\netcoreapp3.1\testConsole.csproj.AssemblyReference.cache
+C:\Users\benl\Source\Repos\Therianulf\csharpProjects\testConsole\obj\Debug\netcoreapp3.1\testConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benl\Source\Repos\Therianulf\csharpProjects\testConsole\obj\Debug\netcoreapp3.1\testConsole.AssemblyInfoInputs.cache
+C:\Users\benl\Source\Repos\Therianulf\csharpProjects\testConsole\obj\Debug\netcoreapp3.1\testConsole.AssemblyInfo.cs
+C:\Users\benl\Source\Repos\Therianulf\csharpProjects\testConsole\obj\Debug\netcoreapp3.1\testConsole.csproj.CoreCompileInputs.cache
+C:\Users\benl\Source\Repos\Therianulf\csharpProjects\testConsole\obj\Debug\netcoreapp3.1\testConsole.dll
+C:\Users\benl\Source\Repos\Therianulf\csharpProjects\testConsole\obj\Debug\netcoreapp3.1\testConsole.pdb
+C:\Users\benl\Source\Repos\Therianulf\csharpProjects\testConsole\obj\Debug\netcoreapp3.1\testConsole.genruntimeconfig.cache
