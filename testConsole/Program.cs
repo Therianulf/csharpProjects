@@ -5,16 +5,15 @@ namespace testConsole
     class Program
     {
 
-        static int tickCount = 0;
         static void Main(string[] args)
         {
             Employee myEmployee = new Employee();
-            myEmployee.Age = 32;
-            myEmployee.Name = "Ben";
-            Console.WriteLine("Hello World! I am "+myEmployee.Age+" years old TickCount = " + tickCount.ToString());
-            tickCount++;
-            Console.WriteLine("Hello World! its me "+ myEmployee.Name +". TickCount = " + tickCount.ToString());
+            Console.WriteLine("Hello World! what is your name?");
+            myEmployee.Name = Console.ReadLine();
+            Console.WriteLine("Hello World! how old are you?");
+            myEmployee.Age = Convert.ToInt32(Console.ReadLine());
             XmlSerialization.WriteToXmlFile<Employee>("/Users/ben.larson/employee.txt", myEmployee);
+            Console.WriteLine("thank you! we have written that info to file.");
         }
     }
 
@@ -22,6 +21,9 @@ namespace testConsole
     public class Employee {
         public string Name { get; set; }
         public int Age { get; set; }
+        public string Title { get; }
+
+
     }
 
 
