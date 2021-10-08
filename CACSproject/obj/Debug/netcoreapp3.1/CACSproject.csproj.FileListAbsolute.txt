@@ -18,7 +18,6 @@ C:\Users\benl\Source\Repos\Therianulf\csharpProjects\CACSproject\bin\Debug\netco
 C:\Users\benl\Source\Repos\Therianulf\csharpProjects\CACSproject\bin\Debug\netcoreapp3.1\CACSproject.runtimeconfig.dev.json
 C:\Users\benl\Source\Repos\Therianulf\csharpProjects\CACSproject\bin\Debug\netcoreapp3.1\CACSproject.dll
 C:\Users\benl\Source\Repos\Therianulf\csharpProjects\CACSproject\bin\Debug\netcoreapp3.1\CACSproject.pdb
-C:\Users\benl\Source\Repos\Therianulf\csharpProjects\CACSproject\obj\Debug\netcoreapp3.1\CACSproject.csproj.AssemblyReference.cache
 C:\Users\benl\Source\Repos\Therianulf\csharpProjects\CACSproject\obj\Debug\netcoreapp3.1\CACSproject.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\benl\Source\Repos\Therianulf\csharpProjects\CACSproject\obj\Debug\netcoreapp3.1\CACSproject.AssemblyInfoInputs.cache
 C:\Users\benl\Source\Repos\Therianulf\csharpProjects\CACSproject\obj\Debug\netcoreapp3.1\CACSproject.AssemblyInfo.cs

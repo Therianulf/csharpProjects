@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace CACSproject
+﻿namespace CACSproject
 {
     public class Employee
     {
@@ -12,7 +8,7 @@ namespace CACSproject
         public float Salary { get; set; }
         public void IncreaseSalary()
         {
-            Salary = Salary + Salary * 0.08F;
+            this.Salary = this.Salary + (this.Salary * 0.08F);
         }
     }
 }
